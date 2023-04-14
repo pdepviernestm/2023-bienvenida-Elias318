@@ -6,6 +6,6 @@
 ### Aparte de la facultad Estoy haciendo el curso de javascript y ya termine el de desarrollo web en coderhouse , admeas estoy cursando el B1+ de ingles tambien en la UTN.
 
 ### Me gustan los deportes , juego al futbol , hice kick boxing , hago boxeo , hice taekwonodo.
-### -Equipo favorito : BOCA JUNIORS.
-### -Estilo de musica que me gusta : Reggeatton , Rock , Electronica (No el punchipunchi solo , sino de los que cantan jajaj).
+### -Hincha de : BOCA JUNIORS.
+### -Estilo de musica que me gusta : Reggaetton , Rock , Electronica (No el punchipunchi solo , sino de los que cantan jajaj).
 
